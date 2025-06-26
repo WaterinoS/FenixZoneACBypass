@@ -1,0 +1,5 @@
+http://159.223.98.10/asi/anti-key.asi
+http://159.223.98.10/asi/nzeE831D.tmp
+http://samp.sa-mp.pro/hex.txt
+http://159.223.98.10/asi/discord-rpc.dll
+http://159.223.98.10/asi/nz.dll
